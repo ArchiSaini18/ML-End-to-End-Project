@@ -1,0 +1,14 @@
+End to End ML Project :
+-Data Ingestion
+-Data Transformation
+-Model Trainer
+-Model Evaluation
+-Model Deployment
+
+CI/CD Pipeline-GitHub Actions
+Deployment-AWS
+
+
+setup.py will be responsible for creatign machine learning application as package.
+with the help of setup.py i will able to build by entire ml application as package.and even deploy pipi 
+so from this anybody can install it and anybody can use it.
