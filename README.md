@@ -4,8 +4,7 @@ background and other test scores. This project demonstrates an end-to-end ML pip
 data ingestion, preprocessing, model training, a Flask web app, Docker packaging, and a
 CI/CD pipeline to Azure.
 
-### 🎯 Quick Links
-Overview
+### Overview
 
 - Features
 
