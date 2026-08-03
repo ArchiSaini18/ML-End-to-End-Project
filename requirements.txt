@@ -1,4 +1,21 @@
 pandas 
 numpy 
 seaborn
--e .
+matplotlib
+scrikit-learn
+catboost
+# -e .
+
+
+# SageMath parsed files
+*.sage.py
+
+
+# Environments
+.artifacts
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
