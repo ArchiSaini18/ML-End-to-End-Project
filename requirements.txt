@@ -4,18 +4,20 @@ seaborn
 matplotlib
 scrikit-learn
 catboost
-# -e .
+xgboost
+dill
+-e .
 
 
 # SageMath parsed files
-*.sage.py
+
 
 
 # Environments
-.artifacts
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
+# .artifacts
+# .env
+# .venv
+# env/
+# venv/
+# ENV/
+# env.bak/
